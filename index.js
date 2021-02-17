@@ -487,7 +487,7 @@ client.on('group-participants-update', async (anu) => {
                  randIndex = Math.floor(Math.random() * jsonData.length);
                  randKey = jsonData[randIndex];
                  asupan = await getBuffer(randKey.result)
-                 frhan.sendMessage(from, asupan, video, {quoted: mek, caption: '\`\`\`ASUPAN GAN:V\`\`\`'})
+                 client.sendMessage(from, asupan, video, {quoted: mek, caption: '\`\`\`ASUPAN GAN:V\`\`\`'})
 				await limitAdd(sender) 
 				break
 				case 'darkjokes':
