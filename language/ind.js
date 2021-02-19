@@ -119,7 +119,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┏━━━⊱ *ABOUT SENPAI* ⊰━━┓
 ┃
 ┃   Hai ${pushname}  wa.me/${sender.split("@")[0]}
-┃   Namaku adalah *AZKA™*
+┃   Namaku adalah *AZKA*
 ┃   Version : 4.6
 ┃   Prefix   : ${prefix}
 ┃
