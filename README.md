@@ -7,7 +7,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/mroy-25/Azkaboy
+> git clone https://github.com/mroy-25/azkay
 ```
 
 ## Install the dependencies:
@@ -15,7 +15,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd Azkaboy
+> cd azkay
 > bash install.sh
 ```
 
